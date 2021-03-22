@@ -1,0 +1,5 @@
+color=input("enter the colour name")
+a=color.split(",")
+print(a[0])
+n=len(a)
+print(a[n-1])
